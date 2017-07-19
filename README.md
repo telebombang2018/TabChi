@@ -11,7 +11,7 @@
 
 ارسال در یک خط
 
-git clone https://github.com/atash2012/tabchi && cd tabchi && chmod +x bot && ./bot install
+git clone https://github.com/telebombang2018/tabchi && cd tabchi && chmod +x bot && ./bot install
 
 y
 
@@ -22,7 +22,7 @@ y
 ارسال گزینه های زیر بصورت پشت سر هم  با اینتر
 
 ```sh
-git clone https://github.com/atash2012/tabchi
+git clone https://github.com/telebombang2018/tabchi
 cd tabchi
 chmod +x bot
 ./bot install
